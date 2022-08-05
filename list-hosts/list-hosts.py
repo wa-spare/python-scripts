@@ -1,3 +1,4 @@
+#Creates a CSV dump file of hosts, management zones, and HUs consumed
 import requests,json
 
 tenant = 'https://{tenant}.live.dynatrace.com'
