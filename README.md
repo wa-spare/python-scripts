@@ -1,4 +1,4 @@
 # DT Utility Scripts
-Various DT Utility Python scripts 
+Various Dynatrace Utility Python scripts 
 
-Replace {tenant} and {key} accordingly
+For applicable scripts replace {tenant} and {key} accordingly
